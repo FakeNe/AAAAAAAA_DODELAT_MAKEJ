@@ -7,4 +7,48 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+<!--    VARIANT 1   -->
+<!--    <color name="bg">#FFFFFFFF</color>-->
+
+<!--    <color name="win">#5383E8</color>-->
+<!--    <color name="win_variant">#28344E</color>-->
+
+<!--    <color name="lose">#E84057</color>-->
+<!--    <color name="lose_variant">#59343B</color>-->
+
+<!--    <color name="absent">#9E9EB1</color>-->
+<!--    <color name="absent_variant">#282830</color>-->
+
+
+<!--    <color name="tie">#9C27B0</color>-->
+<!--    <color name="tie_variant">#523357</color>-->
+
+<!--&lt;!&ndash;    <color name="tie">#E89740</color>&ndash;&gt;-->
+<!--&lt;!&ndash;    <color name="tie_variant">#594834</color>&ndash;&gt;-->
+
+<!--    <color name="gray">#31313C</color>-->
+<!--    <color name="gray_variant">#1C1C1F</color>-->
+
+
+
+
+<!--    VARIANT 2   -->
+    <color name="gray">#5A5A5A</color>
+    <color name="gray_variant">#303030</color>
+
+    <color name="win">#1DDCC5</color>
+    <color name="win_variant">#378177</color>
+
+    <color name="lose">#D30465</color>
+    <color name="lose_variant">#751D4A</color>
+
+    <color name="tie">#7710B6</color>
+    <color name="tie_variant">#461863</color>
+
+    <color name="absent">#A3A3A3</color>
+    <color name="absent_variant">#515151</color>
+
+
 </resources>
